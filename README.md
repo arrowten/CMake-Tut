@@ -3,7 +3,7 @@ CMake tutorial
 
 ## Step 1: Understanding the basics
 1. Created a c++ file 
-2. Created a CMakeLists.txt
+2. Generated an executable
 
 ## Step 2: Understanding libraries and how to link them with executables
 1. Created a .h and .cpp file 
